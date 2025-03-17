@@ -17,7 +17,12 @@ The primary goal of this project is to craft a detailed system prompt that embod
 ## *Tech Stack Used*  
 
 - *LLM:* llama3.1:latest  
-- *Deployment:* Web OpenAI via Docker  
+- *Deployment:* Web OpenAI via Docker
+
+
+https://github.com/user-attachments/assets/70425774-8d2b-48ac-b9b5-367a7295b105
+
+
 
 ## *Results*  
 
